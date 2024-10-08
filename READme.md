@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="https://cdn.discordapp.com/attachments/1293263951249018973/1293263987613499434/image.png?ex=6706bd72&is=67056bf2&hm=48ff37e12ac30eeaa86fba8da768322888fa38b49b26d8d285ca355448905b7c&">
    </kbd><br><br>
 ## Features
 
